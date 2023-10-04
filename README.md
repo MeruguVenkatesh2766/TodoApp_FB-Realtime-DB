@@ -1,6 +1,6 @@
 # TodoApp_FB-Realtime-DB
 
-"Welcome to my React Native masterpiece! This project is a testament to the art of cross-platform mobile app development. Utilizing the power of React Native, I've crafted a versatile and responsive mobile application that works seamlessly on both Android and iOS devices.
+"This project is a testament to the art of cross-platform mobile app development. Utilizing the flexible features of React Native, I've crafted a versatile and responsive mobile application that works seamlessly on both Android and iOS devices.
 
 Features
 Beautiful User Interface: Our app boasts a captivating and user-friendly interface designed to provide an exceptional user experience.
