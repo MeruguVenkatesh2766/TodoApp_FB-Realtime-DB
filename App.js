@@ -12,18 +12,15 @@ import { FontAwesome, Entypo } from '@expo/vector-icons';
 import { initializeApp } from 'firebase/app'
 import { get, getDatabase, ref, set,push,remove,transaction,runTransaction } from 'firebase/database'
 
-
 const firebaseConfig = {
-  apiKey: "AIzaSyB5uII5HX7O6riEeB4uHGggKLl7LhJxxdQ",
-  authDomain: "lab4-bb0ca.firebaseapp.com",
-  databaseURL: "https://lab4-bb0ca-default-rtdb.firebaseio.com",
-  projectId: "lab4-bb0ca",
-  storageBucket: "lab4-bb0ca.appspot.com",
-  messagingSenderId: "981082239271",
-  appId: "1:981082239271:web:3470a5358e8fd8ae8b3902",
-  measurementId: "G-8QWXJP26CC"
+  apiKey: "AIzaSyBy3C8_iJDxVMSBWnsPgLyw4Dr3SfPoOIo",
+  authDomain: "task-management---rn-de8ba.firebaseapp.com",
+  databaseURL: "https://task-management---rn-de8ba-default-rtdb.firebaseio.com",
+  projectId: "task-management---rn-de8ba",
+  storageBucket: "task-management---rn-de8ba.appspot.com",
+  messagingSenderId: "743996193593",
+  appId: "1:743996193593:web:ecb67d1410f8dde67c06e8"
 };
-
 
 // Initialize Firebase
 const firebase = initializeApp(firebaseConfig);
